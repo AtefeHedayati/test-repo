@@ -27,7 +27,7 @@ We have an image in the README (markdown)
 We have an image in the README (html)
 <img src="./wtf.jpg" />
 
-We have an image in the README (more html)
+We have an image in the README helloo (more html)
 <p align="center" style="background:#000;padding:5px;color:#fff;font-size:150%;margin-bottom:64px">
     <img src="./wtf.jpg" />
     <span style="margin-left:48px;">wubble</span>
